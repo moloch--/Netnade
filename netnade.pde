@@ -1,6 +1,6 @@
 /*** 
  *    Net~nade: The hand held DHCP grenade (exhaustion attack)
- *  Written by: Cerberus 
+ *  Written by: Moloch
  */
 #include <Ethernet.h>
 #include <EthernetDHCP.h>
